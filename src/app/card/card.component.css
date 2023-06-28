@@ -1,5 +1,6 @@
 .card {
   width: 350px;
+  min-height: 410px;
 }
 
 .media-content {
